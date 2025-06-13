@@ -1,4 +1,4 @@
-##😊 Smile Detection with Deep Learning
+## 😊 Smile Detection with Deep Learning
 
 This project implements a smile detection model using deep learning. It takes facial images as input and classifies whether the person is smiling or not.
 
